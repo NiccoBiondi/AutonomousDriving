@@ -3,9 +3,9 @@
 
 To make sure that a local training job can be run, remember to execute all work from AutonomousDriving/Pytorch/ folder, to have the correct paths where the results will be saved.
 
-## Training job
+## Training phase
 
-Now there are three types of method a user can use:
+You can choose by three types of model:
 
 - using the model that work with RGB single image
 - using the model that work with RGB and Depth single image
@@ -30,7 +30,7 @@ During the train is create the tensorboard file, saved in **tensorboard_runs**, 
 tensorboard --logdir=tensorboard_runs/ --port 6006
 ```
 
-## Testing  Job
+## Testing  Phase
 
 Like is describe previously for the Training Job, for the Test we have to use the same command:
 
