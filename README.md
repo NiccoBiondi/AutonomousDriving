@@ -18,7 +18,7 @@ For more details [read the report](Report.pdf) and watch [the video in this link
 
 All the settings, path and configurations are in **config/config.py** file. Please read all sections to make sure all work correctly.
 
-## Dependacies
+## Dependancies
 
 - PyTorch
 - numpy
